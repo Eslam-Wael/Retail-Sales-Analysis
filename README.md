@@ -4,7 +4,7 @@
 
 **Turning retail data into clear, actionable business insights with Microsoft Excel.**
 
-<img src="retail-sales-dashboard-ugc.png" alt="Retail Sales Analysis Dashboard displayed on a laptop" width="900">
+<img src="retail-sales-dashboard-ugc.png.png" alt="Retail Sales Analysis Dashboard displayed on a laptop" width="900">
 
 *Dashboard presentation mockup — replace this image with a screenshot of the actual workbook when available.*
 
