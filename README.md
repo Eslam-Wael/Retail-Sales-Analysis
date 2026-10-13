@@ -59,17 +59,13 @@ This dashboard concept is designed to help explore questions such as:
 ## Repository Contents
 
 ```text
-excel-retail-sales-dashboard/
+Retail-Sales-Analysis/
 ├── README.md
-└── retail-sales-dashboard-ugc.png
-```
-
-Add the actual Excel workbook to this repository when it is ready, for example:
-
-```text
-├── retail-sales-dashboard.xlsx
-└── data/
-    └── retail-sales-data.csv
+├── Retail_Sales_Dashboard.xlsx
+├── Datafile/
+    └──  Retail-Sales_pivotTable.xlsx  
+└── assets/
+    └── retail-sales-dashboard-ugc.png
 ```
 
 Do not upload customer-sensitive or confidential data.
@@ -90,7 +86,6 @@ The image above is a generated presentation mockup. It is intended for portfolio
 - Add the source workbook and document the data-cleaning steps.
 - Include interactive filters or slicers, if supported by the workbook.
 - Add a short findings section with verified insights from the data.
-- Document KPI definitions and formulas.
 - Include screenshots of the actual dashboard and supporting worksheets.
 
 ---
