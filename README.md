@@ -6,8 +6,6 @@
 
 <img src="assets/retail-sales-dashboard-ugc.png.png" alt="Retail Sales Analysis Dashboard" width="900">
 
-*Dashboard presentation mockup — replace this image with a screenshot of the actual workbook when available.*
-
 </div>
 
 ---
