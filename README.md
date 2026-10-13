@@ -44,7 +44,6 @@ A channel breakdown helps compare the relative contribution of different sales c
 
 - Microsoft Excel
 - Data cleaning and preparation
-- KPI selection and reporting
 - PivotTables and chart-based analysis *(include only if implemented in the workbook)*
 - Data visualization
 - Business performance analysis
