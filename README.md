@@ -4,7 +4,7 @@
 
 **Turning retail data into clear, actionable business insights with Microsoft Excel.**
 
-<img src="retail-sales-dashboard-ugc.png.png" alt="retail-sales-dashboard-ugc.png.png" width="900">
+<img src="assets/retail-sales-dashboard-ugc.png.png" alt="Retail Sales Analysis Dashboard" width="900">
 
 *Dashboard presentation mockup — replace this image with a screenshot of the actual workbook when available.*
 
@@ -34,23 +34,9 @@ The goal is to turn raw sales data into a concise visual overview that supports 
 
 ## Preview
 
-### KPI overview and monthly trend
-
-The top section is intended to provide a quick summary of headline metrics and monthly sales movement.
-
-![KPI overview and monthly sales trend](retail-sales-dashboard-ugc.png)
-
-### Geographic and product performance
-
-The dashboard layout also includes city-level comparisons and a ranked view of product sales.
-
-![City and product performance dashboard preview](retail-sales-dashboard-ugc.png)
-
 ### Sales channel analysis
 
 A channel breakdown helps compare the relative contribution of different sales channels.
-
-![Sales channel analysis dashboard preview](retail-sales-dashboard-ugc.png)
 
 > **Note:** The same presentation image is used for each preview section. These are not separate chart exports.
 
@@ -96,7 +82,7 @@ Do not upload customer-sensitive or confidential data.
 1. Clone or download this repository.
 2. Open the Excel workbook once it has been added.
 3. Review the dashboard and filters, if included.
-4. Compare the KPIs and charts to explore sales performance.
+4. Compare charts to explore sales performance.
 
 ## Data & Accuracy Note
 
